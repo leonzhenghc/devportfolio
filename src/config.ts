@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  name: "Leon Zheng",
+  title: "Aspring Aerospace Engineer",
+  description: "Portfolio website of Leon Zheng",
+  accentColor: "#00113f",
   social: {
-    email: "your-email@example.com",
+    email: "zheng.leon1226@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
     github: "https://github.com/RyanFitzgerald",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Hello! I'm Leon, an aspiring aerospace engineer with a passion for aviation and innovation. I enjoy building projects that solve real-world problems and contribute to the tech community.",
+  skills: ["MATLAB", "SolidWorks", "C++", "Python", "Mandarin Chinese"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -69,9 +69,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Georgia Institute of Technology",
+      degree: "Bachelor of Science in Aerospace Engineering",
+      dateRange: "2026 - Present",
       achievements: [
         "Graduated Magna Cum Laude with 3.8 GPA",
         "Dean's List all semesters",

@@ -27,7 +27,7 @@ export const siteConfig = {
       dateRange: "June 2026 - Present",
       bullets: [
         "Developed my fundamentals of Git",
-        "Developed a personal website using Github and VS Code",
+        "Created a personal website using Github and VS Code",
         
       ]
     },

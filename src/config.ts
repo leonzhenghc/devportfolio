@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Leon Zheng",
-  title: "Aspring Aeronautical Engineer",
+  title: "First Year Aerospace Engineering Student @ Georgia Tech",
   description: "Portfolio website of Leon Zheng",
   accentColor: "#00113f",
   social: {
@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/leonzhenghc",
   },
   aboutMe:
-    "Hello! I'm Leon, an aspiring aeronautical engineer with a passion for aviation and innovation. I enjoy building projects that solve real-world problems and contribute to the tech community.",
+    "My name is Leon and I am a first-year student at the Georgia Institute of Technology obtaining a Bachelor’s Degree in aerospace engineering. I am an avid enjoyer of flight simulators, electronics, fencing, and cooking. I have a deep passion for commercial aviation with an immense desire to improve the safety and efficiency of air travel.",
   skills: ["MATLAB", "SolidWorks", "C++", "Python", "Arduino","Mandarin Chinese"],
   projects: [
     {

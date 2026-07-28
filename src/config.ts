@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/leonzhenghc",
   },
   aboutMe:
-    "My name is Leon and I am a first-year student at the Georgia Institute of Technology obtaining a Bachelor’s Degree in aerospace engineering. I am an avid enjoyer of flight simulators, electronics, fencing, and cooking. I have a deep passion for commercial aviation with an immense desire to improve the safety and efficiency of air travel.",
+    "My name is Leon, and I am a first-year student at the Georgia Institute of Technology obtaining a Bachelor’s Degree in aerospace engineering. I am an avid enjoyer of flight simulators, electronics, fencing, and cooking. I have a deep passion for commercial aviation with an immense desire to improve the safety and efficiency of air travel.",
   skills: ["MATLAB", "SolidWorks", "C++", "Python", "Arduino","Mandarin Chinese"],
   projects: [
     {
